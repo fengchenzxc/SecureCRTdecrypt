@@ -1,6 +1,8 @@
 # SecureCRTdecrypt
 SecureCRT批量解密工具 by fengchen
 
+```
+
 optional arguments:
   -h, --help            show this help message and exit
   -v VERSION, --version VERSION
@@ -11,3 +13,4 @@ optional arguments:
                         %APPDATA%\VanDyke\Config\Sessions\sessionname.ini
   -s SUFFIX, --suffix SUFFIX
                         指定后缀，默认为ini
+```
