@@ -2,6 +2,7 @@
 SecureCRT批量解密工具 by fengchen
 
 ```
+python3 securecrtdecryptV2.py -v 2 -p "" -f "/private/tmp/tmp" -s ini
 
 optional arguments:
   -h, --help            show this help message and exit
